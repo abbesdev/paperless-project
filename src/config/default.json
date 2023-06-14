@@ -1,0 +1,5 @@
+{
+  "mongoUri": "mongodb+srv://abbesmohamed45:XSBmGDrJflDaDIdw@paparlessdb.jl1mbn0.mongodb.net/paperless",
+
+  "secretOrkey": "my secret"
+}
